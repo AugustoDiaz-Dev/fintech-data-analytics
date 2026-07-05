@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+.env/
+
+# IDE files
+.vscode/
+.idea/
