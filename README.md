@@ -192,7 +192,7 @@ Features:
 
 Unsupervised learning project using PCA and K-Means clustering to identify customer segments and generate business recommendations.
 
-→ [Google Colab Link](https://colab.research.google.com/drive/1Z4HmU6_HoVe2i9hn7IQlDmJRO9LPNDrc?usp=sharing)
+→ [Google Colab Link](https://colab.research.google.com/drive/1PbjQkYfw-KbnUbDH0yazVpWphFCJNQYI?usp=sharing)
 
 ---
 
