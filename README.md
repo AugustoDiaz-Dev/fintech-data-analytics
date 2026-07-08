@@ -41,21 +41,6 @@ Business-oriented SQL analysis covering customer behavior, transactions, merchan
 
 ---
 
-## FinTech Analytics Pipeline (Python)
-
-End-to-end analytics workflow built with Python, including:
-
-- Data cleaning
-- Exploratory Data Analysis
-- Feature engineering
-- KPI generation
-- Business insights
-- Financial reporting
-
-→ [Open in Google Colab](https://colab.research.google.com/drive/1CYiFrPxlK0cD04ajcl4YOoGWy6lhcziZ?usp=sharing)
-
----
-
 ## Product Experiment Analysis (A/B Testing)
 
 Business case evaluating a new FinTech feature using statistical experimentation.
@@ -70,6 +55,21 @@ The project analyzes:
 using a controlled A/B testing framework.
 
 → [Open in Google Colab](https://colab.research.google.com/drive/1B_zYgAl8iF-o7rTBStNHLHUbM5zU7AcI?usp=sharing)
+
+---
+
+## FinTech Analytics Pipeline (Python)
+
+End-to-end analytics workflow built with Python, including:
+
+- Data cleaning
+- Exploratory Data Analysis
+- Feature engineering
+- KPI generation
+- Business insights
+- Financial reporting
+
+→ [Open in Google Colab](https://colab.research.google.com/drive/1CYiFrPxlK0cD04ajcl4YOoGWy6lhcziZ?usp=sharing)
 
 ---
 
