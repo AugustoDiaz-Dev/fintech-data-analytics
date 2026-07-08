@@ -85,7 +85,7 @@ Features include:
 - t-SNE Visualization
 - Interactive Gradio Interface
 
-→ [Open in Google Colab](https://colab.research.google.com/drive/1Mohb44AAKX-taflw6DZJLwIXcfqEtpki?usp=sharing)
+→ [Open in Google Colab](https://colab.research.google.com/drive/13kMGWIbXsbtk7NdYofNdwGHdtH5OrcD3?usp=sharing)
 
 → [Try the Live Demo](https://huggingface.co/spaces/Augustordiaz/bert-based-fintech-fraud-text-classifier)
 
